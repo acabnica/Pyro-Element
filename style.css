@@ -11,8 +11,8 @@
 .normal {font-family: Impact;}
 .none {color: rgb(255, 238, 0);font-family: Impact;}
 .carousel-item{ 
-    height: 40rem;
-position: relative; width: 45rem;
+    height: 25rem;
+position: relative;;
 }
 
 
